@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/agency/pom.xml" />
+        <option value="$PROJECT_DIR$/person-service/pom.xml" />
+        <option value="$PROJECT_DIR$/agency-service/pom.xml" />
+        <option value="$PROJECT_DIR$/calendar-service/pom.xml" />
+        <option value="$PROJECT_DIR$/authentication-service/pom.xml" />
+        <option value="$PROJECT_DIR$/authorization-service/pom.xml" />
+        <option value="$PROJECT_DIR$/config-service/pom.xml" />
+        <option value="$PROJECT_DIR$/event-service/pom.xml" />
+        <option value="$PROJECT_DIR$/guide-service/pom.xml" />
+        <option value="$PROJECT_DIR$/message-service/pom.xml" />
+        <option value="$PROJECT_DIR$/tourist-service/pom.xml" />
+        <option value="$PROJECT_DIR$/tourist-group-service/pom.xml" />
+        <option value="$PROJECT_DIR$/trip-service/pom.xml" />
+        <option value="$PROJECT_DIR$/user-service/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/agency/api/pom.xml" />
+        <option value="$PROJECT_DIR$/agency/domain/pom.xml" />
+        <option value="$PROJECT_DIR$/agency/persistence/pom.xml" />
+        <option value="$PROJECT_DIR$/agency/pom.xml" />
+        <option value="$PROJECT_DIR$/authentication/api/pom.xml" />
+        <option value="$PROJECT_DIR$/authentication/domain/pom.xml" />
+        <option value="$PROJECT_DIR$/authentication/persistence/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

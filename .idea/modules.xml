@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/TravelRelationships.iml" filepath="$PROJECT_DIR$/.idea/TravelRelationships.iml" />
+      <module fileurl="file://$PROJECT_DIR$/agency-service/agency-service.iml" filepath="$PROJECT_DIR$/agency-service/agency-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/authentication-service/authentication-service.iml" filepath="$PROJECT_DIR$/authentication-service/authentication-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/authorization-service/authorization-service.iml" filepath="$PROJECT_DIR$/authorization-service/authorization-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/calendar-service/calendar-service.iml" filepath="$PROJECT_DIR$/calendar-service/calendar-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-service/config-service.iml" filepath="$PROJECT_DIR$/config-service/config-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/event-service/event-service.iml" filepath="$PROJECT_DIR$/event-service/event-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/guide-service/guide-service.iml" filepath="$PROJECT_DIR$/guide-service/guide-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/message-service/message-service.iml" filepath="$PROJECT_DIR$/message-service/message-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/person-service/person-service.iml" filepath="$PROJECT_DIR$/person-service/person-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tourist-group-service/tourist-group-service.iml" filepath="$PROJECT_DIR$/tourist-group-service/tourist-group-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tourist-service/tourist-service.iml" filepath="$PROJECT_DIR$/tourist-service/tourist-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/trip-service/trip-service.iml" filepath="$PROJECT_DIR$/trip-service/trip-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user-service/user-service.iml" filepath="$PROJECT_DIR$/user-service/user-service.iml" />
+    </modules>
+  </component>
+</project>

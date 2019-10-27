@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="message-service" />
+        <module name="trip-service" />
+        <module name="guide-service" />
+        <module name="person-service" />
+        <module name="tourist-service" />
+        <module name="agency-service" />
+        <module name="config-service" />
+        <module name="event-service" />
+        <module name="user-service" />
+        <module name="calendar-service" />
+        <module name="authentication-service" />
+        <module name="tourist-group-service" />
+        <module name="authorization-service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="agency" target="1.5" />
+      <module name="agency-api" target="8" />
+      <module name="agency-domain" target="1.5" />
+      <module name="agency-persistence" target="8" />
+      <module name="agency-service" target="1.8" />
+      <module name="api" target="1.5" />
+      <module name="authentication" target="1.5" />
+      <module name="authentication-service" target="1.8" />
+      <module name="authorization-service" target="1.8" />
+      <module name="calendar-service" target="1.8" />
+      <module name="config-service" target="1.8" />
+      <module name="domain" target="1.5" />
+      <module name="event-service" target="1.8" />
+      <module name="guide-service" target="1.8" />
+      <module name="message-service" target="1.8" />
+      <module name="persistence" target="1.5" />
+      <module name="person-service" target="1.8" />
+      <module name="tourist-group-service" target="1.8" />
+      <module name="tourist-service" target="1.8" />
+      <module name="trip-service" target="1.8" />
+      <module name="user-service" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="agency-api" options="-parameters" />
+      <module name="agency-persistence" options="-parameters" />
+      <module name="agency-service" options="-parameters" />
+      <module name="authentication-service" options="-parameters" />
+      <module name="authorization-service" options="-parameters" />
+      <module name="calendar-service" options="-parameters" />
+      <module name="config-service" options="-parameters" />
+      <module name="event-service" options="-parameters" />
+      <module name="guide-service" options="-parameters" />
+      <module name="message-service" options="-parameters" />
+      <module name="person-service" options="-parameters" />
+      <module name="tourist-group-service" options="-parameters" />
+      <module name="tourist-service" options="-parameters" />
+      <module name="trip-service" options="-parameters" />
+      <module name="user-service" options="-parameters" />
+    </option>
+  </component>
+</project>
